@@ -49,5 +49,7 @@ console.log(theQuestion.slice(24, 34))
 // Write the code that will log the last character of theQuestion without manually counting the number of characters.
 console.log(theQuestion.slice(-1))
 
+//
+
 
 
